@@ -1,10 +1,10 @@
 {
-  "name": "IM-FE-notice-account",
+  "name": "notice-account",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href='/IM-FE-notice-account/'",
+    "build": "ng build --base-href='/notice-account/'",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "run:all": "node node_modules/@angular-architects/module-federation/src/server/mf-dev-server.js"

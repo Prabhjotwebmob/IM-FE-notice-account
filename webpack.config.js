@@ -28,7 +28,7 @@ module.exports = new withModuleFederationPlugin({
 //       name: 'notice-account',
 
 //       exposes: {
-//         './Module': './src/app/IM-FE-notice-account/IM-FE-notice-account.module.ts',
+//         './Module': './src/app/notice-account/notice-account.module.ts',
 //       },
 
 //       shared: {
